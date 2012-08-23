@@ -1,0 +1,6 @@
+number of layers=4
+number of bots=20
+number of food=40
+crossover rate=80
+mutation rate=30
+
